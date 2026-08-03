@@ -19,9 +19,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Shevadesuyash/Daily-Coding/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Array
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shevadesuyash/Daily-Coding/tree/master/0877-stone-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shevadesuyash/Daily-Coding/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shevadesuyash/Daily-Coding/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shevadesuyash/Daily-Coding/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shevadesuyash/Daily-Coding/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
