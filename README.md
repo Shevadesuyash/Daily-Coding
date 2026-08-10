@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shevadesuyash/Daily-Coding/tree/master/0001-two-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Shevadesuyash/Daily-Coding/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shevadesuyash/Daily-Coding/tree/master/0001-two-sum) |
 | [0877-stone-game](https://github.com/Shevadesuyash/Daily-Coding/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
