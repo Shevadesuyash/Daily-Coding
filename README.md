@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shevadesuyash/Daily-Coding/tree/master/0001-two-sum) |
 | [0877-stone-game](https://github.com/Shevadesuyash/Daily-Coding/tree/master/0877-stone-game) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shevadesuyash/Daily-Coding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3483-unique-3-digit-even-numbers) |
@@ -100,5 +101,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shevadesuyash/Daily-Coding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shevadesuyash/Daily-Coding/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
