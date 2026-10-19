@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Shevadesuyash/Daily-Coding/tree/master/1189-maximum-number-of-balloons) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shevadesuyash/Daily-Coding/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
