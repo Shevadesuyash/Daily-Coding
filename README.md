@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shevadesuyash/Daily-Coding/tree/master/0001-two-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Shevadesuyash/Daily-Coding/tree/master/1189-maximum-number-of-balloons) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shevadesuyash/Daily-Coding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shevadesuyash/Daily-Coding/tree/master/0001-two-sum) |
 | [0877-stone-game](https://github.com/Shevadesuyash/Daily-Coding/tree/master/0877-stone-game) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shevadesuyash/Daily-Coding/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shevadesuyash/Daily-Coding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3483-unique-3-digit-even-numbers) |
@@ -116,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Shevadesuyash/Daily-Coding/tree/master/0301-remove-invalid-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shevadesuyash/Daily-Coding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shevadesuyash/Daily-Coding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
