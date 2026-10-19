@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shevadesuyash/Daily-Coding/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shevadesuyash/Daily-Coding/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Shevadesuyash/Daily-Coding/tree/master/0301-remove-invalid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Shevadesuyash/Daily-Coding/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shevadesuyash/Daily-Coding/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Shevadesuyash/Daily-Coding/tree/master/1189-maximum-number-of-balloons) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shevadesuyash/Daily-Coding/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Shevadesuyash/Daily-Coding/tree/master/0301-remove-invalid-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shevadesuyash/Daily-Coding/tree/master/2089-find-target-indices-after-sorting-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Shevadesuyash/Daily-Coding/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
