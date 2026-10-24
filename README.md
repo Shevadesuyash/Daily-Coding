@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shevadesuyash/Daily-Coding/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Shevadesuyash/Daily-Coding/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shevadesuyash/Daily-Coding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2409-count-days-spent-together](https://github.com/Shevadesuyash/Daily-Coding/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Counting
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Shevadesuyash/Daily-Coding/tree/master/0877-stone-game) |
+| [2409-count-days-spent-together](https://github.com/Shevadesuyash/Daily-Coding/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shevadesuyash/Daily-Coding/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
